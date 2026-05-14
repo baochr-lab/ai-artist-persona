@@ -1,0 +1,35 @@
+{
+  "artworks": [
+    {
+      "title": "泉",
+      "artist": "马塞尔·杜尚",
+      "year": 1917,
+      "type": "装置艺术",
+      "description": "签名的小便池，达达主义标志性作品，挑战'什么是艺术'的定义"
+    },
+    {
+      "title": "下楼梯的裸女",
+      "artist": "马塞尔·杜尚",
+      "year": 1912,
+      "type": "油画",
+      "description": "受未来主义影响的立体主义作品，表现运动的连续性"
+    },
+    {
+      "title": "星月夜",
+      "artist": "文森特·梵高",
+      "year": 1889,
+      "type": "油画",
+      "description": "圣雷米疗养院时期作品，漩涡状星空表现内心躁动"
+    }
+  ],
+  "artists": [
+    {
+      "name": "马塞尔·杜尚",
+      "name_en": "Marcel Duchamp",
+      "birth_death": "1887-1968",
+      "nationality": "法国",
+      "movement": "达达主义、超现实主义",
+      "key_works": ["泉", "下楼梯的裸女", "大玻璃"]
+    }
+  ]
+}
